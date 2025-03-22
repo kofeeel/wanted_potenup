@@ -7,6 +7,8 @@
     push
     pull
     commit
+
+## Branch 명령어어
 - 브랜치(branch): 독립적인 작업 공간
 - 머지(merge): 브랜치 간 작업 통합
 - 체크아웃(checkout): 특정 브랜치 또는 커밋으로 이동
